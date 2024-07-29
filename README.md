@@ -118,8 +118,8 @@ make withdraw --sender --network-args
 
 ## Acknowledgements
 
-- Patrick Collins: [text](https://github.com/PatrickAlphaC)
-- Cyfrin Updraft: [text](https://github.com/Cyfrin/Updraft)
+- Patrick Collins: [Twitter](https://twitter.com/PatrickAlphaC)
+- Cyfrin Updraft: [Website](https://updraft.cyfrin.io/)
 
 ## License
 
